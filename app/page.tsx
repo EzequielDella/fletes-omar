@@ -137,7 +137,7 @@ export default function FletesOmarLanding() {
       </p>
     </div>
 
-    <div className="grid grid-cols-3 md:grid-cols-3 gap-5 md:gap-3">
+    <div className="grid grid-cols-2 md:grid-cols-3 gap-5 md:gap-3">
   {[
     {
       title: 'Mudanzas',
