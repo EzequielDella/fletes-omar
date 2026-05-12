@@ -342,8 +342,8 @@ export default function FletesOmarLanding() {
 
   <p>
     ✉️{" "}
-    <a href="mailto:contacto@fletesomar.com.ar">
-      contacto@fletesomar.com.ar
+    <a href="mailto:marielalvalente@gmail.com">
+      marielalvalente@gmail.com
     </a>
   </p>
 </div>
